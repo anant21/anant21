@@ -1,4 +1,4 @@
-# ANANT GANGWAR ## aka infinityman
+# ANANT GANGWAR aka infinityman
 
 <p>      </p>  <img src="https://github.com/anant21/overview/blob/main/Logo.png" alignheight="200" width="450" />
 
