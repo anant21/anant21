@@ -1,6 +1,6 @@
 # ANANT GANGWAR
 
-<p>      </p>  <img src="https://github.com/anant21/overview/blob/main/My%20Logo.png" alignheight="300" width="650" />
+<p>      </p>  <img src="https://github.com/anant21/overview/blob/main/My%20Logo.png" alignheight="250" width="550" />
 
 
 ### I'm a Security Engineer and Penetration Tester
