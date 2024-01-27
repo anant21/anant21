@@ -22,4 +22,4 @@
 - English
 
 ### Social Media
-<a href="https://www.linkedin.com/in/anant-gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anant Gangwar" height="30" width="40" /></a>  <a href="https://twitter.com/theinfinity_man" target="blank"><img align="center" src="https://i.pinimg.com/736x/8e/72/f7/8e72f7331b652b842b0c271ab144d332.jpg" alt="theinfinity_man" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anant-gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anant Gangwar" height="30" width="40" /></a>    <a href="https://twitter.com/theinfinity_man" target="blank"><img align="center" src="https://i.pinimg.com/736x/8e/72/f7/8e72f7331b652b842b0c271ab144d332.jpg" alt="theinfinity_man" height="40" width="40" /></a>
