@@ -4,7 +4,8 @@
 
 
 ### I'm a Security Engineer and Penetration Tester
-- AZ-900 Certified
+- AI-900 Certified & Generative AI
+- AZ-900 & SC-900 Certified
 - Database Security
 - Cloud Security
 - Application Security
