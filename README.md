@@ -4,7 +4,9 @@
 
 
 ### I'm a Security Engineer and Penetration Tester
-- AI-900 Certified & Generative AI
+- Generative AI: ChatGPT, Copilot, Gemini (previously Bard)
+- AI-900 Certified
+- AZ-500 Certified
 - AZ-900 & SC-900 Certified
 - Database Security
 - Cloud Security
