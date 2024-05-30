@@ -11,7 +11,7 @@
 - Database Security
 - Cloud Security
 - Application Security
-- CTF Player in HackTheBox & TryHackMe
+- Security Researcher in HackTheBox & TryHackMe
 - Exploring Cyber Forensics
   
 ### Computer Languages
